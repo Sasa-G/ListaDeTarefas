@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ /* body{
+    margin: 50%;
+
+}
+
+div{
+    color: blue;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: space-around;
+}  */
+
+
+body{
+    color: pink;
+
+    
+}
+
+button{
+    border-radius: 50px;
+
+}
+
+div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 2 collum ;
+    
+    
+}
